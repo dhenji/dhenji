@@ -23,7 +23,7 @@ My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, a
 ### Other Languages & Scripting
 - C, C++  
 - Java
-- HTML, CSS, JavaScript (Basic Frontend)
+- HTML, CSS (Taildwind CSS), JavaScript (Basic Frontend)
 - SQL (Postgresql, Mysql, Mariadb)
 
 ### Tools & Platforms
@@ -36,7 +36,7 @@ My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, a
 ---
 
 ## 🎯 Goals
-- Build advance/strong Backend-dev, DevOps and automation expertise 
+- Learn DevOps and automation expertise 
 - Automate Linux workflows and infrastructure tasks  
 - Grow into cloud-powered DevOps engineering
 
