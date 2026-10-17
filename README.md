@@ -2,8 +2,6 @@
 
 **DevOps & Automation · Linux Enthusiast · Computer Science Student**
 
-![Profile Views](https://komarev.com/ghpvc/?username=CodeKharl&color=0e75b6&style=flat&label=Profile+Views)
-
 I'm a Computer Science student focused on DevOps engineering and automation. I build things that run themselves — Bash scripts that automate Linux workflows, containerized environments with Docker Compose, and CI pipelines with GitHub Actions.
 
 My long-term goal is to grow as a DevOps engineer — where cloud infrastructure, automation, and system reliability come together.
