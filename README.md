@@ -32,6 +32,7 @@ My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, a
 - Linux environments (Debian-based systems)
 - Vim/Nvim, Nano, VS Code, etc. (Code Editors)
 - Docker
+- Opencode (Coding Agent)
 ---
 
 ## 🎯 Goals
